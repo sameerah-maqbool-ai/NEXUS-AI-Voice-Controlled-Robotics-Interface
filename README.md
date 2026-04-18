@@ -1,4 +1,5 @@
 ## 🤖 NEXUS: AI Voice-Controlled Robotics Interface
+<img width="762" height="555" alt="Image" src="https://github.com/user-attachments/assets/861c6db4-0a9d-46a9-be33-35f0a80cf256" />
 
 An advanced browser-based robotic control system powered by voice commands, real-time animation, and modern Web APIs — built entirely with pure HTML, CSS, and JavaScript (no frameworks, no dependencies).
 
